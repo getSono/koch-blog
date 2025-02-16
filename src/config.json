@@ -3,8 +3,8 @@
   "BASE": "/",
   "SITE_TITLE": "Koch Blog",
   "SITE_NAME": "Meine Leidenschaft",
-  "SITE_DESCRIPTION": "Welcome to my website!",
-  "SITE_FAVICON": "🙃",
+  "SITE_DESCRIPTION": "Willkommen zur meiner Leidenschaft, kochen ♥️",
+  "SITE_FAVICON": "👨‍🍳",
   "NAME": "flo-bit",
   "POSTS_PER_PAGE": 3,
   "MANUAL_DARK_MODE": true,
@@ -19,8 +19,8 @@
     "LINKEDIN_URL": "",
     "YOUTUBE_URL": "",
     "SUBSTACK_URL": "",
-    "EMAIL": "flo.bit.dev@gmail.com",
-    "BLUESKY_URL": "https://bsky.app/profile/flo-bit.dev"
+    "EMAIL": "sono@sononetwork.de",
+    "BLUESKY_URL": "https://bsky.app/profile/sononetwork.de"
   },
-  "BLUESKY_IDENTIFIER": "flo-bit.dev"
+  "BLUESKY_IDENTIFIER": "sononetwork.de"
 }
