@@ -2,7 +2,7 @@
   "SITE": "https://blog.sononetwork.de",
   "BASE": "",
   "SITE_TITLE": "Koch Blog",
-  "SITE_NAME": "Meine Leidenschaft",
+  "SITE_NAME": "Julian's Koch Blog",
   "SITE_DESCRIPTION": "Willkommen zur meiner Leidenschaft, kochen ♥️",
   "SITE_FAVICON": "👨‍🍳",
   "NAME": "Julian Wolf",
@@ -14,10 +14,10 @@
   "SOCIAL_LINKS": {
     "FACEBOOK_URL": "",
     "TWITTER_URL": "",
-    "GITHUB_URL": "https://github.com/flo-bit",
+    "GITHUB_URL": "https://github.com/getSono",
     "INSTAGRAM_URL": "",
     "LINKEDIN_URL": "",
-    "YOUTUBE_URL": "",
+    "YOUTUBE_URL": "https://youtube.com/@getSono",
     "SUBSTACK_URL": "",
     "EMAIL": "sono@sononetwork.de",
     "BLUESKY_URL": "https://bsky.app/profile/sononetwork.de"
